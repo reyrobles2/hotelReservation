@@ -44,7 +44,7 @@ The hotel reservation application handles all exceptions gracefully (user inputs
 
 
 
-Acknowledgement to the following sources:
+##### Acknowledgement to the following sources:
 
 Udacity - Cognizant Full Stack Developer Nanodegree Program https://www.udacity.com/; 
 Java https://www.java.com/; 
